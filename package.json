@@ -21,6 +21,7 @@
       "types": "./dist/index.d.ts",
       "react-server": "./dist/react-server.esm.mjs",
       "import": "./dist/index.esm.mjs",
+      "module": "./dist/index.esm.mjs",
       "require": "./dist/index.cjs.js"
     }
   },
